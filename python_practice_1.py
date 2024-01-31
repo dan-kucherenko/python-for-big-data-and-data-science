@@ -1,0 +1,1 @@
+print('Daniil Kucherenko, KN-2')
